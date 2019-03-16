@@ -1,0 +1,3 @@
+C:/Users/Thinkpad/Desktop/Coding/Projects/SSD project/Android/IO_tester-master/app/.externalNativeBuild/cmake/debug/x86_64/CMakeFiles/io-tester.dir
+C:/Users/Thinkpad/Desktop/Coding/Projects/SSD project/Android/IO_tester-master/app/.externalNativeBuild/cmake/debug/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/Thinkpad/Desktop/Coding/Projects/SSD project/Android/IO_tester-master/app/.externalNativeBuild/cmake/debug/x86_64/CMakeFiles/rebuild_cache.dir
